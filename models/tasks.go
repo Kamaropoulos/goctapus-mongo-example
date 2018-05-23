@@ -3,7 +3,7 @@ package models
 import (
 	"log"
 
-	"github.com/Kamaropoulos/goctapus-mongo"
+	goctapus "github.com/Kamaropoulos/goctapus-mongo"
 	_ "github.com/go-sql-driver/mysql"
 	"gopkg.in/mgo.v2/bson"
 

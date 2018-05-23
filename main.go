@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Kamaropoulos/goctapus-mongo"
+	goctapus "github.com/Kamaropoulos/goctapus-mongo"
 	"github.com/Kamaropoulos/goctapus-mongo-example/handlers"
 
 	_ "github.com/go-sql-driver/mysql"
